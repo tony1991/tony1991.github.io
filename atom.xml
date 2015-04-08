@@ -3,9 +3,9 @@
   <title><![CDATA[Tony's blog]]></title>
   <subtitle><![CDATA[梦想还是要有的，万一实现了呢？]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://tony1991.github.io/"/>
   <updated>2015-04-07T13:16:33.285Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://tony1991.github.io/</id>
   
   <author>
     <name><![CDATA[tony]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[python学习笔记(二)]]></title>
-    <link href="http://yoursite.com/2015/04/06/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%BA%8C/"/>
-    <id>http://yoursite.com/2015/04/06/python学习笔记-二/</id>
+    <link href="http://tony1991.github.io/2015/04/06/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%BA%8C/"/>
+    <id>http://tony1991.github.io/2015/04/06/python学习笔记-二/</id>
     <published>2015-04-06T02:35:08.000Z</published>
     <updated>2015-04-07T13:16:33.285Z</updated>
     <content type="html"><![CDATA[<p>上次学到了函数，这次就讲一个具体的函数—读写文件，然后再谈谈网络编程中的Socket。最后结合上面两个知识点，我写了几个读写邮件的小程序。</p>
@@ -36,20 +36,20 @@
     
     </summary>
     
-      <category term="python" scheme="http://yoursite.com/tags/python/"/>
+      <category term="python" scheme="http://tony1991.github.io/tags/python/"/>
     
-      <category term="socket" scheme="http://yoursite.com/tags/socket/"/>
+      <category term="socket" scheme="http://tony1991.github.io/tags/socket/"/>
     
-      <category term="发送邮件" scheme="http://yoursite.com/tags/%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/"/>
+      <category term="发送邮件" scheme="http://tony1991.github.io/tags/%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/"/>
     
-      <category term="学习笔记" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="http://tony1991.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[python学习笔记（一）]]></title>
-    <link href="http://yoursite.com/2015/03/26/python%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2015/03/26/python基础总结/</id>
+    <link href="http://tony1991.github.io/2015/03/26/python%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/"/>
+    <id>http://tony1991.github.io/2015/03/26/python基础总结/</id>
     <published>2015-03-26T11:35:46.000Z</published>
     <updated>2015-04-03T02:27:30.648Z</updated>
     <content type="html"><![CDATA[<h2 id="导语：">导语：</h2><blockquote>
@@ -87,9 +87,9 @@
     
     </summary>
     
-      <category term="python" scheme="http://yoursite.com/tags/python/"/>
+      <category term="python" scheme="http://tony1991.github.io/tags/python/"/>
     
-      <category term="学习笔记" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="http://tony1991.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
